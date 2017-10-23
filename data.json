@@ -1,4 +1,6 @@
-[
+{
+  "baseTemperature": 0,
+  "monthlyVariance": [
  {
    "year": 1880,
    "month": 1,
@@ -8258,25 +8260,6 @@
    "year": 2017,
    "month": 8,
    "variance": 0.85
- },
- {
-   "year": 2017,
-   "month": 9,
-   "variance": 0
- },
- {
-   "year": 2017,
-   "month": 10,
-   "variance": 0
- },
- {
-   "year": 2017,
-   "month": 11,
-   "variance": 0
- },
- {
-   "year": 2017,
-   "month": 12,
-   "variance": 0
  }
 ]
+}
